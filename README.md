@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning.**
 - 💬 Ask me about **Programming and Python.**
-- 👨‍💻 Enthusiast in **Competitive Coding, Artificial Intelligence and Machine Learning.**
+- 👨‍💻 Enthusiast in **Competitive Coding and Machine Learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
