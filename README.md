@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhruvilsinh Chauhan</h1>
 <!-- <h3 align="center">A CSE Final Year student who loves exploring new tech field.</h3> -->
-<h3 align="center">Masters in Computer Science student st San Diego State University.</h3>
+<h3 align="center">Masters in Computer Science student at San Diego State University.</h3>
 <img align="right" alt="coding" width=300 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning.**
