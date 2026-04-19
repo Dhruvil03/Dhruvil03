@@ -12,15 +12,22 @@
 - ⚡ Interested in building **real-world AI systems and intelligent applications**
 - 💬 Ask me about **Python, ML, Computer Vision, and LLMs**
 
+---
 
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
@@ -28,14 +35,18 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/dhruvilsinh-chauhan-0a081a213" target="blank">
+<a href="https://www.linkedin.com/in/dhruvilsinh/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;
+
+
 <a href="https://www.instagram.com/dhruvilsinh__03/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-</a>
-<a href="https://www.hackerrank.com/profile/dhruvilsinhchau1" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+
+<a href="https://leetcode.com/u/Dhruvilsinh2003/" target="blank">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="30"/>
 </a>
 </p>
 
